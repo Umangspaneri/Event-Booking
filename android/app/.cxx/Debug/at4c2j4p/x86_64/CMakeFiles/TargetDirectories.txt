@@ -1,0 +1,2 @@
+C:/Users/yash_surani_048/Desktop/event_booking/android/app/.cxx/Debug/at4c2j4p/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/yash_surani_048/Desktop/event_booking/android/app/.cxx/Debug/at4c2j4p/x86_64/CMakeFiles/rebuild_cache.dir
